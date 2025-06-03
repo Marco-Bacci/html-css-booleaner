@@ -27,6 +27,10 @@ a{
 .author{
   color: gray;
 }
+ul{
+  list-style-position: inside;
+  padding-inline-start: 0%
+}
 span{
   font-size: 70%;
 }
