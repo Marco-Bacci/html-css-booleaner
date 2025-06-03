@@ -39,8 +39,14 @@ span{
  font-weight: 600;
  margin-top: 0;
 }
-
- 
+th{
+  background-color: #1FAAE4;
+  color:#fff;
+}
+.coloured-lines{
+  background-color: #B1E6F2;
+}
+  
   
 
 
