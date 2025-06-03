@@ -1,4 +1,10 @@
 body {
-  margin: 0;
+  margin: 0, auto;
   background-color: rgb(255, 255, 255);
+}
+
+header {
+  background-color: #4EA1FF;
+  background-image:url(../../img/pattern.png);
+  height: 100px;
 }
