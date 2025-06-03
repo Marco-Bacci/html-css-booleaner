@@ -7,46 +7,55 @@ body {
 
 header {
   background-color: #4EA1FF;
-  background-image:url(../../img/pattern.png);
+  background-image: url(../../img/pattern.png);
   height: 100px;
   background-size: 37%;
 }
-.logo{
+
+.logo {
   height: 50px;
 }
-h1{
+
+h1 {
   font-weight: 900;
   font-size: xx-large;
   margin-bottom: 0;
 }
-    
-a{
+
+a {
   text-decoration: none;
   color: #7ACAEA;
 }
-.author{
+
+.author {
   color: gray;
 }
-ul{
+
+ul {
   list-style-position: inside;
   padding-inline-start: 0%
 }
-span{
+
+span {
   font-size: 70%;
 }
-.photo-description{
- font-size: 70%;
- font-weight: 600;
- margin-top: 0;
+
+.photo-description {
+  font-size: 70%;
+  font-weight: 600;
+  margin-top: 0;
 }
-th{
+
+th {
   background-color: #1FAAE4;
-  color:#fff;
+  color: #fff;
+  text-align: left;
 }
-.coloured-lines{
+
+.coloured-lines {
   background-color: #B1E6F2;
 }
-  
-  
 
-
+.large-cell {
+  width: 50%;
+}
