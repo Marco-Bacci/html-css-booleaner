@@ -45,6 +45,7 @@ span {
   font-weight: 600;
   margin-top: 0;
 }
+/*tabella*/
 
 th {
   background-color: #1FAAE4;
@@ -58,4 +59,13 @@ th {
 
 .large-cell {
   width: 50%;
+}
+/*creo un blocco backround per le immagini*/
+.commercial{
+  width: 312px;
+  height: 207px;
+  background-color: rgb(228, 143, 33);
+}
+h3{
+  color: #fff;
 }
