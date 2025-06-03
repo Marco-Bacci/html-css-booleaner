@@ -45,6 +45,7 @@ span {
   font-weight: 600;
   margin-top: 0;
 }
+
 /*tabella*/
 
 th {
@@ -60,21 +61,26 @@ th {
 .large-cell {
   width: 50%;
 }
+
 /*creo un blocco backround per le immagini*/
-.commercial{
+.commercial {
   width: 312px;
   height: 207px;
   background-color: rgb(228, 143, 33);
-  padding-left: 10px;
-  
-  
+  padding: 10px;
+  margin-bottom: 10px;
 }
-h3{
+
+h3 {
   color: #fff;
+  margin: 0;
+
 }
-.primary-panel{
+
+.primary-panel {
   background-image: url(../../img/monitor.jpg);
 }
-.secondary-panel{
+
+.secondary-panel {
   background-image: url(../../img/graph.jpg);
 }
