@@ -50,6 +50,9 @@ span {
 }
 
 /*tabella*/
+table{
+  border-collapse: collapse;
+}
 
 th {
   background-color: #1FAAE4;
