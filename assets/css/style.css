@@ -7,7 +7,7 @@ body {
 
 header {
   background-color: #4EA1FF;
-  background-image: url(../../img/pattern.png);
+  background-image: url(../img/pattern.png);
   height: 100px;
   background-size: 37%;
 }
@@ -84,9 +84,9 @@ h3 {
 }
 
 .primary-panel {
-  background-image: url(../../img/monitor.jpg);
+  background-image: url(../img/monitor.jpg);
 }
 
 .secondary-panel {
-  background-image: url(../../img/graph.jpg);
+  background-image: url(../img/graph.jpg);
 }
